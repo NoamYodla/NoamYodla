@@ -8,5 +8,5 @@
 - 🔭 I’m currently working on developing a respiratory based baby monitor
 - 🌱 I’m currently learning methods of signal processing 
 - 🤔 I’m looking for help with respiratory analysis and app development 
-- 📫 How to reach me: [Email](noam.yodla@s.afeka.ac.il)
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/noam-yodla-8905011a3) | [Email](noam.yodla@s.afeka.ac.il)
 - ⚡ Fun fact: Did you know that hummingbirds are the only birds that can fly backwards.
