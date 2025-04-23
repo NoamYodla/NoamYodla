@@ -6,7 +6,6 @@
 - **CAD Tools**: SolidWorks, Canva
 - **Problem Solving & Collaboration**: Experienced working in multidisciplinary teams to develop real-world solutions.
 - 🔭 I’m currently working on developing a respiratory based baby monitor
-- 🌱 I’m currently learning methods of signal processing 
-- 🤔 I’m looking for help with respiratory analysis and app development 
+- 🌱 I'm currently studying signal processing techniques and machine learning methods, particularly in supervised learning.  
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/noam-yodla-8905011a3) | [Email](noam.yodla@s.afeka.ac.il)
 - ⚡ Fun fact: Did you know that hummingbirds are the only birds that can fly backwards.
