@@ -2,7 +2,7 @@
 
 - 🎓 **Biomedical Engineer** passionate about combining technology and healthcare to drive positive change.
 - 💡 I have a solid foundation in human physiology and biomedical equipment, with skills in:
-- **Programming**: Python, MATLAB, C
+- **Programming**: Python, MATLAB, C, Java, HTML
 - **CAD Tools**: SolidWorks, Canva
 - **Problem Solving & Collaboration**: Experienced working in multidisciplinary teams to develop real-world solutions.
 - 🔭 I’m currently working on developing a respiratory based baby monitor
