@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🎓 **Biomedical Engineering Student** passionate about combining technology and healthcare to drive positive change.
+- 🎓 **Biomedical Engineer** passionate about combining technology and healthcare to drive positive change.
 - 💡 I have a solid foundation in human physiology and biomedical equipment, with skills in:
 - **Programming**: Python, MATLAB, C
 - **CAD Tools**: SolidWorks, Canva
